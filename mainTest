@@ -1,0 +1,19 @@
+PUB	filip
+SUB	0	snack
+PUB	filip
+BLOCK	0	snack
+PUB	filip
+UNBLOCK	0	snack
+PUB	filip
+PUB	dan	TypeA	Main Header	Here is a custom event!
+SUB	1	cars
+PUB	dan
+SUB	5	Channel-001
+BLOCK	5	Channel-001
+PUB	Pub-1
+UNBLOCK	5	Channel-001
+PUB	Pub-1	TypeB	YES!	The system works!
+PUB	tom
+SUB	4	Channel-90
+PUB	Pub-90	TypeC	Hello World	This is the body
+SUB	6	Channel-80
